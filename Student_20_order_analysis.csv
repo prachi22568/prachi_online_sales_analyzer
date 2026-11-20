@@ -1,0 +1,41 @@
+Order_ID,Product,Category,Quantity,Unit_Price,Revenue,Order_Value_Level
+O001,Notebook,Stationery,7,20,140,Regular
+O002,Bottle,Accessories,3,250,750,High Value
+O003,Bag,Accessories,6,20,120,Regular
+O004,Bag,Accessories,2,30,60,Regular
+O005,Bag,Accessories,7,250,1750,High Value
+O006,Notebook,Stationery,7,50,350,Regular
+O007,USB Drive,Electronics,6,30,180,Regular
+O008,Bottle,Accessories,3,20,60,Regular
+O009,Mouse,Electronics,2,250,500,High Value
+O010,Mouse,Electronics,4,50,200,Regular
+O011,Bottle,Accessories,3,30,90,Regular
+O012,Notebook,Stationery,3,50,150,Regular
+O013,Pen,Stationery,3,250,750,High Value
+O014,Pen,Stationery,2,30,60,Regular
+O015,USB Drive,Electronics,8,100,800,High Value
+O016,Mouse,Electronics,8,500,4000,High Value
+O017,Mouse,Electronics,6,500,3000,High Value
+O018,Bottle,Accessories,3,100,300,Regular
+O019,Notebook,Stationery,8,100,800,High Value
+O020,USB Drive,Electronics,5,50,250,Regular
+O021,Mouse,Electronics,1,50,50,Regular
+O022,Mouse,Electronics,2,50,100,Regular
+O023,Bag,Accessories,8,20,160,Regular
+O024,Notebook,Stationery,6,50,300,Regular
+O025,Notebook,Stationery,2,250,500,High Value
+O026,Mouse,Electronics,7,100,700,High Value
+O027,Mouse,Electronics,1,100,100,Regular
+O028,Mouse,Electronics,4,50,200,Regular
+O029,Mouse,Electronics,8,250,2000,High Value
+O030,Pen,Stationery,1,100,100,Regular
+O031,Notebook,Stationery,6,500,3000,High Value
+O032,Notebook,Stationery,3,20,60,Regular
+O033,Pen,Stationery,8,100,800,High Value
+O034,Mouse,Electronics,3,50,150,Regular
+O035,Bottle,Accessories,5,100,500,High Value
+O036,Bag,Accessories,6,500,3000,High Value
+O037,Mouse,Electronics,1,500,500,High Value
+O038,USB Drive,Electronics,6,20,120,Regular
+O039,Bottle,Accessories,2,250,500,High Value
+O040,USB Drive,Electronics,7,50,350,Regular
